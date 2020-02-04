@@ -19,3 +19,6 @@ $ less /tmp/test
 192.168.1.1 ansible_ssh_user=root ansible_ssh_pass=hoge
 192.168.1.2 ansible_ssh_user=root ansible_ssh_pass=hoge
 ```
+
+## lisence
+Apache License version 2.0
