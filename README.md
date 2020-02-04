@@ -1,6 +1,11 @@
 # ansible_inventory
 create inventory file for ansible
 
+## install
+```shell
+$ pip install dynamic-ansible-inventory
+```
+
 ## usage
 ```python
 from dynamic_ansible_inventory import ansible_inventory
