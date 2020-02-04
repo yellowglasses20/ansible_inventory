@@ -2,3 +2,4 @@
 *.*
 !*.py
 !.gitignore
+!dynamic_ansible_inventory
